@@ -1,5 +1,12 @@
 [
  {
+  "at": "2026-11-16T09:55:24Z",
+  "sha": "1687074b579f6b0c69f16b2c5b236f72b8613812",
+  "items": [
+   "Sửa lỗi app đứng / chậm khi đang in tem hoặc đang tải bản cập nhật ở nền"
+  ]
+ },
+ {
   "at": "2026-11-16T09:54:37Z",
   "sha": "3818fa9b402c58dcc92b6b31e668d0ce9974f5b5",
   "items": [
