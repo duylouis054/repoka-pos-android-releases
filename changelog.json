@@ -1,5 +1,13 @@
 [
  {
+  "at": "2026-11-16T06:28:04Z",
+  "sha": "13124ebf04c71248693f093dd41fcb8e97663e13",
+  "items": [
+   "Khi có bản mới, đầu màn hình hiện thông báo \"Đã có bản cập nhật mới\" (bấm Cập nhật, hoặc tắt nếu chưa muốn)",
+   "Trước khi cập nhật, xem tóm tắt bản cập nhật có gì mới"
+  ]
+ },
+ {
   "at": "2026-11-16T06:05:36+00:00",
   "sha": "69bd6841fd086d10b4d76f53f5d482f12554a7ab",
   "items": [
