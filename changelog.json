@@ -1,0 +1,26 @@
+[
+ {
+  "at": "2026-11-16T06:05:36+00:00",
+  "sha": "69bd6841fd086d10b4d76f53f5d482f12554a7ab",
+  "items": [
+   "App tự tải bản cài mới và cài đè ngay trong app, không cần mở trình duyệt hay tìm file",
+   "Chỉ cần cho phép \"cài ứng dụng từ nguồn này\" một lần; từ Android 12 trở lên không phải bấm xác nhận khi cài"
+  ]
+ },
+ {
+  "at": "2026-11-15T12:15:22+00:00",
+  "sha": "a23bda1a01894d147437b62ad49a58b7b2007c55",
+  "items": [
+   "Sản phẩm: chọn nhiều sản phẩm (ô chọn hoặc nhấn giữ) để in tem mã vạch một lượt"
+  ]
+ },
+ {
+  "at": "2026-11-15T10:55:17+00:00",
+  "sha": "61ae30862038f20e67d70465ff0d9307d15b21f1",
+  "items": [
+   "In tem mã vạch qua Bluetooth (máy in tem Xprinter XP-365B), mẫu tem giống bản web",
+   "Nút in tem ở chi tiết sản phẩm và phiếu nhập kho",
+   "Mục mới: Thêm → Máy in tem & mẫu tem"
+  ]
+ }
+]
