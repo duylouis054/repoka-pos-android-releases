@@ -1,5 +1,14 @@
 [
  {
+  "at": "2026-11-16T07:39:43Z",
+  "sha": "8ec6c13ab820e45d9c31c57e30e794303a00cb52",
+  "items": [
+   "Bán hàng: sản phẩm vừa thêm hoặc quét luôn nằm trên cùng bill",
+   "Tìm sản phẩm chính xác hơn: gõ \"khan trang\" ra đúng \"Khăn trắng\", không ra nhầm sản phẩm khác danh mục",
+   "Nhà cung cấp: thêm nút xóa (không xóa được nếu đã có phiếu nhập kho)"
+  ]
+ },
+ {
   "at": "2026-11-16T06:28:04Z",
   "sha": "13124ebf04c71248693f093dd41fcb8e97663e13",
   "items": [
