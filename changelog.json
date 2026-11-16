@@ -1,5 +1,14 @@
 [
  {
+  "at": "2026-11-16T11:58:34Z",
+  "sha": "d81fd43d70c1cfc53f5b900480017d51e94c22ca",
+  "items": [
+   "Thêm công tắc \"Tự động cập nhật\" trong Thêm › Cập nhật ứng dụng (mặc định bật)",
+   "Tải xong bản mới, app hỏi \"Khởi động lại ngay\" hoặc \"Khởi động sau\"; cài xong app tự mở lại",
+   "Tự xóa file cài đặt sau khi cập nhật để đỡ tốn dung lượng máy"
+  ]
+ },
+ {
   "at": "2026-11-16T10:50:10Z",
   "sha": "b4c86e1f36fe627e2251baf65d707304f3b037f4",
   "items": [
