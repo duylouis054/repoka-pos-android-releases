@@ -1,5 +1,13 @@
 [
  {
+  "at": "2026-11-17T06:10:04Z",
+  "sha": "20501b6497a6d45847cd6cb27ababad021286bf3",
+  "items": [
+   "Sửa chữ \"Chuyển khoản\" bị tràn khỏi nút ở màn thanh toán",
+   "Sửa nút xóa bill bị đè lên thông tin đơn ở màn bán hàng"
+  ]
+ },
+ {
   "at": "2026-11-16T13:06:30Z",
   "sha": "9dbb295cfe118d5ca7901f0aee888fcc9254c438",
   "items": [
