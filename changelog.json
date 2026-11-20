@@ -1,5 +1,13 @@
 [
  {
+  "at": "2026-11-20T12:12:05Z",
+  "sha": "de47430d7c34e3ab9f4a66bffc8be04aae001297",
+  "items": [
+   "Bán hàng: tạo nhanh sản phẩm mới ngay khi tìm hoặc quét không ra (theo phân quyền), lưu xong tự thêm vào bill",
+   "Phiếu nhập tự tạo khi thêm sản phẩm kèm tồn kho được đánh dấu \"Chưa có NCC\" để bổ sung NCC"
+  ]
+ },
+ {
   "at": "2026-11-20T12:02:52Z",
   "sha": "efa106570d7290b16c42aa194180c78b448e6b84",
   "items": [
