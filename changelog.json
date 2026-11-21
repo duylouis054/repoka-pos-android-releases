@@ -1,5 +1,15 @@
 [
  {
+  "at": "2026-11-21T06:14:36Z",
+  "sha": "1b88103bfaaffe169f61aaa4cf2f2570ff6542c7",
+  "items": [
+   "Phân quyền: mục Bán hàng có thêm \"Sửa giá bán\" và \"Tạo nhanh sản phẩm\"",
+   "Bán vượt tồn kho: báo rõ món nào và hỏi lại trước khi lưu đơn",
+   "Tồn kho âm hiển thị \"Âm kho – cần nhập hàng / kiểm kho\"",
+   "Lịch sử xuất/nhập hiện người thực hiện"
+  ]
+ },
+ {
   "at": "2026-11-20T12:12:05Z",
   "sha": "de47430d7c34e3ab9f4a66bffc8be04aae001297",
   "items": [
