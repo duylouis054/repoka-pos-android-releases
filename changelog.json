@@ -1,5 +1,13 @@
 [
  {
+  "at": "2026-11-23T07:33:13Z",
+  "sha": "da2b200e5754ae88f25e485c0b89fd30384c0402",
+  "items": [
+   "Màn Thanh toán có 2 nút: \"Lưu tạm\" (in phiếu sau trên web) và \"Hoàn thành\" (không cần in phiếu)",
+   "Lưu đơn xong, màn Bán hàng tự làm trống để bán đơn mới, tránh ghi đè lên bill vừa lưu"
+  ]
+ },
+ {
   "at": "2026-11-23T07:06:23Z",
   "sha": "e614d9292aaf40db36d4d936ce6cf9d872f33640",
   "items": [
