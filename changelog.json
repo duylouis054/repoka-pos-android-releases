@@ -1,5 +1,19 @@
 [
  {
+  "at": "2026-11-24T09:00:11Z",
+  "sha": "f48cdde2e7f013db6520e45c13371a83c445c209",
+  "items": [
+   "Lịch sử bán hàng: bill đã được sửa hiện dòng ghi chú ai sửa, lúc nào và tổng tiền trước/sau"
+  ]
+ },
+ {
+  "at": "2026-11-24T08:57:36Z",
+  "sha": "031cd86bd6d31bbbbab5146f9f8e28ce10e933b3",
+  "items": [
+   "Lịch sử bán hàng: bill Lưu tạm của hôm nay có nút \"Sửa\" để thêm/bớt món, lưu lại vẫn là Lưu tạm"
+  ]
+ },
+ {
   "at": "2026-11-24T06:13:02Z",
   "sha": "8dbe94555976cc84f244acacd484081bf09c0235",
   "items": [
