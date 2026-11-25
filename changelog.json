@@ -1,5 +1,13 @@
 [
  {
+  "at": "2026-11-25T06:05:45Z",
+  "sha": "56489fd8bfb03b11f2526b20660ad3cfe524eecf",
+  "items": [
+   "Sửa giá trên bill giờ chỉ áp cho bill đó, không đổi giá sản phẩm; chỉ tài khoản được cấp quyền \"Sửa giá trên bill\" mới sửa được",
+   "Danh sách Sản phẩm hiện lần đổi giá gần nhất (ai đổi, lúc nào); màn sửa sản phẩm có Lịch sử đổi giá"
+  ]
+ },
+ {
   "at": "2026-11-24T09:00:11Z",
   "sha": "f48cdde2e7f013db6520e45c13371a83c445c209",
   "items": [
